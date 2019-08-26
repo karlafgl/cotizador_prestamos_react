@@ -37,8 +37,8 @@ export function calcularTotal(cantidad, plazo){
             break;
     }
 
-    console.log(cantidad + totalPlazo + totalCantidad)
-    return cantidad + totalPlazo + totalCantidad)
+
+    return cantidad + totalPlazo + totalCantidad
 
 
 }
